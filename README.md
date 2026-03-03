@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohith0750/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rohith0750/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith0750/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rohith0750/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Rohith0750/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohith0750/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Rohith0750/leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,5 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohith0750/leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
