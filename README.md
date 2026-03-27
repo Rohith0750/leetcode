@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith0750/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rohith0750/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Rohith0750/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rohith0750/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohith0750/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Rohith0750/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rohith0750/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Rohith0750/leetcode/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
