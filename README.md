@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rohith0750/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rohith0750/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith0750/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rohith0750/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0790-domino-and-tromino-tiling](https://github.com/Rohith0750/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 ## Two Pointers
 |  |
