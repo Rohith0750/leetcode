@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Rohith0750/leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Rohith0750/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
