@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohith0750/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rohith0750/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith0750/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Rohith0750/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rohith0750/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rohith0750/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rohith0750/leetcode/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
