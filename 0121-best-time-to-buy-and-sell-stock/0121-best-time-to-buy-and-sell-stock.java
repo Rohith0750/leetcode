@@ -15,7 +15,7 @@ class Solution {
         int n = arr.length;
         int min=arr[0];
         int maxprofit=0;
-        for(int i=1;i<n;i++){
+        for(int i=0;i<n;i++){
             int cost =arr[i]-min;
             maxprofit=Math.max(maxprofit,cost);
             min=Math.min(min,arr[i]);
