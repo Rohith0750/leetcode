@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rohith0750/leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith0750/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
