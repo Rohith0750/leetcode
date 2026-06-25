@@ -19,8 +19,17 @@ class Solution {
         }
 
         // --- STEP 3: LOCATE THE NODE BEFORE THE TARGET ---
-        // Calculate how many steps from the front we need to go
+
+        // sz = 5 (total nodes: [10]->[20]->[30]->[40]->[50])
+        // n  = 2 (we want to remove the 2nd node from the end, which is [40])
+
+        // Calculate the 1-based position from the front where we need to STOP.
+        // pos = 5 - 2 = 3. 
+        // This tells us the node we want to stand on is the 3rd node from the front ([30]).
         int pos = sz - n;
+
+        // Initialize our tracker pointer at the very beginning of the list.
+        // At this exact moment: prev is pointing to the 1st node ([10]).
         ListNode prev = head;
 
         // Move 'prev' pointer forward until it lands exactly on the node
