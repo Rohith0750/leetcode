@@ -10,30 +10,45 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        ListNode temp = head;
         if(head==null || head.next==null){
             return head;
         }
-        ArrayList<Integer> al = new ArrayList<>();
-        while(temp!=null && temp.next!=null){
-            al.add(temp.val);
-            temp = temp.next.next;
-        }
-        if(temp!=null){al.add(temp.val);}
-        temp =head.next;
-        while(temp!=null && temp.next!=null){
-            al.add(temp.val);
-            temp=temp.next.next;
-        }
-        if(temp!=null){al.add(temp.val);}
-        int i=0;
-        temp=head;
-        while(temp!=null){
-            temp.val=al.get(i);
-            i++;
-            temp=temp.next;
+        ListNode even = head.next;
+        ListNode odd=head;
+        ListNode evenNode=head.next;
+
+        while(even!=null && even.next!=null){
+            odd.next=odd.next.next;
+            odd=odd.next;
+            even.next=even.next.next;
+            even = even.next;
 
         }
+        odd.next=evenNode;
+
+        // if(head==null || head.next==null){
+        //     return head;
+        // }
+        // ArrayList<Integer> al = new ArrayList<>();
+        // while(temp!=null && temp.next!=null){
+        //     al.add(temp.val);
+        //     temp = temp.next.next;
+        // }
+        // if(temp!=null){al.add(temp.val);}
+        // temp =head.next;
+        // while(temp!=null && temp.next!=null){
+        //     al.add(temp.val);
+        //     temp=temp.next.next;
+        // }
+        // if(temp!=null){al.add(temp.val);}
+        // int i=0;
+        // temp=head;
+        // while(temp!=null){
+        //     temp.val=al.get(i);
+        //     i++;
+        //     temp=temp.next;
+
+        // }
         return head;
     }
 }
