@@ -31,14 +31,15 @@ class Solution {
 
         ListNode fast=head;
         ListNode slow=head;
-        ListNode prev=null;
+        //ListNode prev=null;
+        fast=fast.next.next;
         while(fast!=null && fast.next!=null){
-            prev=slow;
+            // prev=slow;
             slow=slow.next;
             fast=fast.next.next;
         } 
-        prev.next=prev.next.next;
-
+       // prev.next=prev.next.next;
+        slow.next=slow.next.next;
         return head;
     }
 }
