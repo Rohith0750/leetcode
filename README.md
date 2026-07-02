@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohith0750/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rohith0750/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rohith0750/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Rohith0750/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rohith0750/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rohith0750/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rohith0750/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Rohith0750/leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Rohith0750/leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
