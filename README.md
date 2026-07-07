@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Rohith0750/leetcode/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohith0750/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohith0750/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
