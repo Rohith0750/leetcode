@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohith0750/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Rohith0750/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohith0750/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohith0750/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rohith0750/leetcode/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Rohith0750/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0790-domino-and-tromino-tiling](https://github.com/Rohith0750/leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rohith0750/leetcode/tree/master/0164-maximum-gap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
