@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Rohith0750/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Rohith0750/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohith0750/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rohith0750/leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Rohith0750/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohith0750/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
