@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohith0750/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohith0750/leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Rohith0750/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Rohith0750/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohith0750/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rohith0750/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Rohith0750/leetcode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohith0750/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith0750/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohith0750/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohith0750/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Rohith0750/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Rohith0750/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohith0750/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
