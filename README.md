@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohith0750/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohith0750/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rohith0750/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
