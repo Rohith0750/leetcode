@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohith0750/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohith0750/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rohith0750/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohith0750/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohith0750/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohith0750/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Rohith0750/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohith0750/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rohith0750/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rohith0750/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohith0750/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rohith0750/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohith0750/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rohith0750/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohith0750/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
