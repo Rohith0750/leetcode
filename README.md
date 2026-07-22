@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohith0750/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rohith0750/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rohith0750/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohith0750/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohith0750/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Rohith0750/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Rohith0750/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohith0750/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohith0750/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohith0750/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohith0750/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohith0750/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Rohith0750/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
