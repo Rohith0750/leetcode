@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohith0750/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rohith0750/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohith0750/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Rohith0750/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Rohith0750/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rohith0750/leetcode/tree/master/1025-divisor-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rohith0750/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rohith0750/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rohith0750/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohith0750/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Rohith0750/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohith0750/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Rohith0750/leetcode/tree/master/0496-next-greater-element-i) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rohith0750/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rohith0750/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rohith0750/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohith0750/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Rohith0750/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rohith0750/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Rohith0750/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohith0750/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rohith0750/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rohith0750/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rohith0750/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Rohith0750/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohith0750/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rohith0750/leetcode/tree/master/0704-binary-search) |
 ## Linked List
